@@ -1,2 +1,2 @@
-# testproject
-testing repository for garlapati
+# TestProject
+Testing repository  for Nanfei Sun
